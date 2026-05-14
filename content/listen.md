@@ -1,10 +1,11 @@
 ---
-show_meta: false
+show_meta: no
 title: Listen
 ---
 
-
-An overview of music and podcasts I currently have on repeat. [Checkout](blog/listen-cms/) how I manage this page to keep it current, without touching a single piece of code (until it breaks).
+An overview of music and podcasts I currently have on repeat.
+[Checkout](blog/listen-cms/) how I manage this page to keep it current, without
+touching a single piece of code (until it breaks).
 
 ## Music
 
