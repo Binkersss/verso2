@@ -9,7 +9,8 @@ or otherwise check the [archive](archive/)):
 ## [Wayland](https://wayland.fyi/)
 
 Building [bswc](https://codeberg.org/binkd/bswc), a master-stack style dynamic
-wayland compsitor, and many other related todos/side-projects.
+wayland compsitor, and many other related todos/side-projects such as
+[neuipc](https://codeberg.org/binkd/neuipc).
 
 ## Operating Systems
 
@@ -41,3 +42,42 @@ Current bugs:
 
 - RSS feed is not really up to snuff
 - Date/Timestamp management needs to be thought about harder
+
+## TODOs
+
+#### Wayland
+
+- Herbe style notifications
+- Monocle and full screen in bswc
+- Btree layout in bswc
+- Some bug fixes around focus and master width (diff per workspace)
+- Per-monitor workspaces
+- Monitor switching controls
+- Per-monitor layouts
+- Hotplug frees on monitors
+- Focus/float rules (wofi)
+- Figure out why neumenu not showing up
+- Find bard/ipc regression
+
+#### Infra
+
+##### Security
+
+- [ ] Install Tailscale on hetznerbsd
+- [ ] Restrict SSH to Tailscale interface only (remove open SSH port from
+      pf.conf)
+- [ ] Restrict ZNC (port 1026) to Tailscale only
+
+##### Git
+
+- [ ] Add Codeberg → git.chappelle.dev push mirror
+- [ ] Git hosting is currently fragile — pushes only work from
+      `binkd@hetznerbsd`
+  - Consider setting up a dedicated `git` user with authorized keys so any
+    machine can push
+  - stagit is read-only presentation; all write access needs to go through a
+    proper auth layer ok
+
+#### LuaBrow
+
+- See [TODO](https://codeberg.org/binkd/luabrow/TODO.md)
