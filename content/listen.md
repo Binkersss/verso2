@@ -10,6 +10,20 @@ An overview of music and podcasts I currently have on repeat. [Checkout](blog/li
 
 <section class="song-gallery">
  <div class="song-card">
+  <img alt="Dayvan Cowboy Album Art" src="/assets/covers/dayvancowboy.jpg"/>
+  <div class="song-info">
+   <span class="song-title">
+    Dayvan Cowboy
+   </span>
+   <span class="artist-name">
+    Boards of Canada
+   </span>
+   <a class="song-link" href="https://music.youtube.com/watch?v=A_XIF-ISBaM&amp;list=PLKql6RpqXbWOfToU0YudgcbiB1CxS-jnt">
+    Listen
+   </a>
+  </div>
+ </div>
+ <div class="song-card">
   <img alt="Easter Pink Album Art" src="/assets/covers/easterpink.jpg"/>
   <div class="song-info">
    <span class="song-title">
