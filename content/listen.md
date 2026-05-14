@@ -9,6 +9,7 @@ touching a single piece of code (until it breaks).
 
 ## Music
 
+<section class="song-gallery">
  <div class="song-card">
   <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
   <div class="song-info">
@@ -108,4 +109,3 @@ touching a single piece of code (until it breaks).
   </div>
  </div>
 </section>
-
