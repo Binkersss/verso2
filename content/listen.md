@@ -10,6 +10,20 @@ An overview of music and podcasts I currently have on repeat. [Checkout](blog/li
 
 <section class="song-gallery">
  <div class="song-card">
+  <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
+  <div class="song-info">
+   <span class="song-title">
+    Blow Me
+   </span>
+   <span class="artist-name">
+    fakemink
+   </span>
+   <a class="song-link" href="https://youtu.be/9a-x4LJSEwg">
+    Listen
+   </a>
+  </div>
+ </div>
+ <div class="song-card">
   <img alt="Alone in Kyoto Album Art" src="/assets/covers/aloneinkyoto.jpg"/>
   <div class="song-info">
    <span class="song-title">
