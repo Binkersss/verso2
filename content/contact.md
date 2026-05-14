@@ -3,18 +3,14 @@ title: Contact
 show_meta: no
 ---
 
-Feel free to reach out:
-
-- Email: nathaniel at any of my domains.
+- Email: nathaniel at this domain.
   - 37AF 9835 E4CD AC40
-- XMPP: [binkd@xmpp.is](xmpp:binkd@xmpp.is)
+- Find me on irc in [#derive](irc.ergo.chat)
 
-I'm always happy to chat about systems programming, performance optimization, or
-interesting technical problems. If you think I could get something done for you,
-let me know!
+You can find my code here:
 
-You can find my projects here:
-
-- Personal Git Mirror: [git.chappelle.dev](https://git.chappelle.dev)
-- GitHub: [github.com/Binkersss](https://github.com/Binkersss)
-- Codeberg: [coderberg.org/binkd](https://codeberg.org/binkd)
+- [git.chappelle.dev](https://git.chappelle.dev) (soon to be deprecated b/c git
+  hosting is hard)
+- [coderberg.org/binkd](https://codeberg.org/binkd)
+- [github.com/Binkersss](https://github.com/Binkersss) (soon to be deprecated
+  b/c microslop)

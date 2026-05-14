@@ -3,27 +3,21 @@ title: About Me
 show_meta: no
 ---
 
-I'm a systems developer and Masters Student at Oregon State University who loves
-thinking about what it takes to build fast, minimal software. I spend most of my
-time working on:
+AKA binkd.
+
+Systems developer. I do:
 
 - Philosophy of CS
-- Computing Architectures
+- Computing architectures
 - Distributed systems
-- Performance optimization
+- Parllelism and other performance optimization
 
-When I'm not thinking, designing or programming you'll find me cycling the
-gravel forest roads of the Oregon Coast Range, splitboarding in the Oregon
-Cascades, or riding my skateboard for the British Downhill Skateboarding team.
+I try to do:
 
-Checkout [Current](current/) to hear more about my current technical and
-non-technical interests!
+- Math
+- Neuroscience
+- Ethics
+- [Downhill skateboarding](https://youtu.be/rkWOLEI4vFk)
 
-Checkout my [blog](blog/) to read more about my thoughts, projects, and
-experiences.
-
-## Background
-
-I've been programming for over 4 years, primarily in C, Go, Python, and Rust. I
-believe in writing simple, maintainable, and composable code that does one thing
-well.
+Read [current](current/) to see what I'm working on right now, and read the
+[blog](blog/) to see what I've been thinking about.
