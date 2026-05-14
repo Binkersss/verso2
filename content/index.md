@@ -10,7 +10,7 @@ Systems developer. I do:
 - Philosophy of CS
 - Computing architectures
 - Distributed systems
-- Parllelism and other performance optimization
+- Parallelism and other performance optimization
 
 I try to do:
 

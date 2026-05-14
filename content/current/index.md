@@ -4,7 +4,7 @@ show_meta: no
 ---
 
 Here's what I'm currently working on. To see past projects (complete, on hold,
-or otherwise echeck the [archive](archive/)):
+or otherwise check the [archive](archive/)):
 
 ## [Wayland](https://wayland.fyi/)
 
