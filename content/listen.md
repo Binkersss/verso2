@@ -32,6 +32,20 @@ An overview of music and podcasts I currently have on repeat. [Checkout](blog/li
    <span class="artist-name">
     fakemink
    </span>
+   <a class="song-link" href="https://music.youtube.com/watch?v=9a-x4LJSEwg&amp;si=rTIoI0fISn8WMZGs">
+    Listen
+   </a>
+  </div>
+ </div>
+ <div class="song-card">
+  <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
+  <div class="song-info">
+   <span class="song-title">
+    Blow Me
+   </span>
+   <span class="artist-name">
+    fakemink
+   </span>
    <a class="song-link" href="https://youtu.be/9a-x4LJSEwg">
     Listen
    </a>
@@ -117,20 +131,6 @@ An overview of music and podcasts I currently have on repeat. [Checkout](blog/li
     Thievery Corporation
    </span>
    <a class="song-link" href="https://music.youtube.com/watch?v=L4ppMYNYiiI&amp;si=omLE2DEqvr8WIb2b">
-    Listen
-   </a>
-  </div>
- </div>
- <div class="song-card">
-  <img alt="Rondo Acapricio Album Art" src="/assets/covers/rondoacapricio.jpg"/>
-  <div class="song-info">
-   <span class="song-title">
-    Rondo Acapricio
-   </span>
-   <span class="artist-name">
-    Tosca
-   </span>
-   <a class="song-link" href="https://music.youtube.com/watch?v=7nZCqxXrFXU&amp;si=d5YExHGt4PvxRJyw">
     Listen
    </a>
   </div>
