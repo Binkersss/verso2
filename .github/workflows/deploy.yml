@@ -8,6 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install lowdown
+      - run: sudo apt-get install -y lowdown
+
       - name: Build
         run: make build
 
