@@ -21,3 +21,7 @@ I try to do:
 
 Read [current](current/) to see what I'm working on right now, and read the
 [blog](blog/) to see what I've been thinking about.
+
+Friends:
+
+- [sasha](https://sashacarin.github.io)
