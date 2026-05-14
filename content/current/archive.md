@@ -1,11 +1,11 @@
 ---
-title: Current
+title: Archive
 show_meta: no
 ---
 
-Here's what I'm currently working on:
+Here's what I used to work on, but got distracted/busy.
 
-## [Stamail](https://git.chappelle.dev/stamail/log.html)
+## **ON HOLD** [Stamail](https://git.chappelle.dev/stamail/log.html)
 
 A [suckless](https://suckless.org) static site generator for mailing list
 archives
@@ -23,9 +23,9 @@ Current bugs:
 - Threading HTML is _ugly_
 - Navigation of site, and aesthetic, isn't where it should be
 
-## [Gromacs-LS](https://github.com/vanegasj/gromacs-ls-2025.4)
+## **Finished** [Gromacs-LS](https://github.com/vanegasj/gromacs-ls-2025.4)
 
-A fork of [Gromacs](https://www.gromacs.org), a moluecular dynamics simulation
+A fork of [Gromacs](https://www.gromacs.org), a molecular dynamics simulation
 engine, with support for local stress and elasticity simulation. The project is
 authored and maintained by Juan Vanegas, a Biophysics professor and researcher
 at OSU.
@@ -39,31 +39,17 @@ at OSU.
     - Actual CPU time and memory space
     - Interpretation of compiler generated assembly
 
-## [verso_2](https://git.chappelle.dev/verso2/log.html)
-
-A minimal, unix-centric, and easy static site generator. It's what this site is
-built on
-
-Currently:
-
-- Working out the kinks as I create posts, add content, and expand the
-  capabilities
-- Exploring ways to integrate my [stagit](https://git.chappelle.dev) instance
-  into the site, as well as other cool bonuses
-
-Current bugs:
-
-- RSS feed is not really up to snuff
-- Date/Timestamp management needs to be thought about harder
-
 ## Computer Architecture
 
-Currently taking High Performance Computer Architectures (CS 570 at OSU) as well
-as exploring creating a Verilog design of my own out-of-order RISC-V cpu
+~~Currently taking~~ Took High Performance Computer Architectures (CS 570 at
+OSU) as well as exploring creating a Verilog design of my own out-of-order
+RISC-V cpu
 
 - Focusing on:
   - Out-of-order pipelines
   - Branch prediction optimizations
+
+Also a few other computer architecture courses.
 
 ## Privacy and Security
 
