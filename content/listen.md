@@ -3,40 +3,12 @@ show_meta: false
 title: Listen
 ---
 
-
-An overview of music and podcasts I currently have on repeat. [Checkout](blog/listen-cms/) how I manage this page to keep it current, without touching a single piece of code (until it breaks).
+An overview of music and podcasts I currently have on repeat.
+[Checkout](blog/listen-cms/) how I manage this page to keep it current, without
+touching a single piece of code (until it breaks).
 
 ## Music
 
-<section class="song-gallery">
- <div class="song-card">
-  <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
-  <div class="song-info">
-   <span class="song-title">
-    Blow Me
-   </span>
-   <span class="artist-name">
-    fakemink
-   </span>
-   <a class="song-link" href="https://music.youtube.com/watch?v=9a-x4LJSEwg&amp;si=rTIoI0fISn8WMZGs">
-    Listen
-   </a>
-  </div>
- </div>
- <div class="song-card">
-  <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
-  <div class="song-info">
-   <span class="song-title">
-    Blow Me
-   </span>
-   <span class="artist-name">
-    fakemink
-   </span>
-   <a class="song-link" href="https://music.youtube.com/watch?v=9a-x4LJSEwg&amp;si=rTIoI0fISn8WMZGs">
-    Listen
-   </a>
-  </div>
- </div>
  <div class="song-card">
   <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
   <div class="song-info">
@@ -136,3 +108,4 @@ An overview of music and podcasts I currently have on repeat. [Checkout](blog/li
   </div>
  </div>
 </section>
+
