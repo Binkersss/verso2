@@ -3,13 +3,26 @@ show_meta: false
 title: Listen
 ---
 
-An overview of music and podcasts I currently have on repeat.
-[Checkout](blog/listen-cms/) how I manage this page to keep it current, without
-touching a single piece of code (until it breaks).
+
+An overview of music and podcasts I currently have on repeat. [Checkout](blog/listen-cms/) how I manage this page to keep it current, without touching a single piece of code (until it breaks).
 
 ## Music
 
 <section class="song-gallery">
+ <div class="song-card">
+  <img alt="Easter Pink Album Art" src="/assets/covers/easterpink.jpg"/>
+  <div class="song-info">
+   <span class="song-title">
+    Easter Pink
+   </span>
+   <span class="artist-name">
+    fakemink
+   </span>
+   <a class="song-link" href="https://music.youtube.com/watch?v=47pZpxxFYZw&amp;si=5fepDyDIdZ_5tXJo">
+    Listen
+   </a>
+  </div>
+ </div>
  <div class="song-card">
   <img alt="Blow Me Album Art" src="/assets/covers/blowme.jpg"/>
   <div class="song-info">
