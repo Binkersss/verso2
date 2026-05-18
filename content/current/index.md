@@ -50,13 +50,17 @@ Current bugs:
 - [ ] Herbe style notifications
 - [ ] Monocle and full screen in bswc
 - [ ] Btree layout in bswc
-- [ ] Some bug fixes around focus and master width (diff per workspace)
 - [ ] Monitor switching controls
 - [ ] Per-monitor layouts
 - [ ] Hotplug frees on monitors
 - [ ] Focus/float rules
 - [ ] Cursor and maybe decorations?
-- [x] [Per-monitor workspaces](https://codeberg.org/binkd/bswc/commit/84545588d5554ea813f4fc445a1b61d598aad2d3)
+- [x] Some bug fixes around focus and master width (diff per workspace)
+      ([4fdb065](https://codeberg.org/binkd/bswc/commit/4fdb06501a061c9fe75d62b205d41821a0a02c93)
+      and
+      [2786f64](https://codeberg.org/binkd/bswc/commit/2786f64eb3da025f37ef18a0fc4f71b7032d1c50))
+- [x] Per-monitor workspaces
+      ([8454558](https://codeberg.org/binkd/bswc/commit/84545588d5554ea813f4fc445a1b61d598aad2d3))
 - [x] ~~Find bard/ipc/neumenu regression/crash~~
 - [x] ~~Figure out why neumenu not showing up~~
   - ~~Seems like launching Xwayland has something to do with it.~~
