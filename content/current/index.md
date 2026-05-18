@@ -47,17 +47,20 @@ Current bugs:
 
 #### Wayland
 
-- Herbe style notifications
-- Monocle and full screen in bswc
-- Btree layout in bswc
-- Some bug fixes around focus and master width (diff per workspace)
-- Per-monitor workspaces
-- Monitor switching controls
-- Per-monitor layouts
-- Hotplug frees on monitors
-- Focus/float rules (wofi)
-- Figure out why neumenu not showing up
-- Find bard/ipc regression
+- [ ] Herbe style notifications
+- [ ] Monocle and full screen in bswc
+- [ ] Btree layout in bswc
+- [ ] Some bug fixes around focus and master width (diff per workspace)
+- [ ] Monitor switching controls
+- [ ] Per-monitor layouts
+- [ ] Hotplug frees on monitors
+- [ ] Focus/float rules
+- [ ] Cursor and maybe decorations?
+- [x] [Per-monitor workspaces](https://codeberg.org/binkd/bswc/commit/84545588d5554ea813f4fc445a1b61d598aad2d3)
+- [x] ~~Find bard/ipc/neumenu regression/crash~~
+- [x] ~~Figure out why neumenu not showing up~~
+  - ~~Seems like launching Xwayland has something to do with it.~~
+  - ~~Impossible to bug hunt atm~~
 
 #### Infra
 
